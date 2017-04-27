@@ -1,0 +1,40 @@
+div {
+  border: 1px solid black;
+}
+.calcRow {
+  width: 500px;
+}
+
+.normalBtn {
+  display: inline-block;
+  width: 22%;
+  height: 15%;
+  margin: 5px;
+  text-align: center;
+}
+
+#outputField {
+  height: 5%;
+  text-align: right;
+}
+
+#allClear {
+  display: inline-block;
+  width: 22%;
+  height: 15%;
+  margin: 5px 5px 5px 51.25%;
+  text-align: center;
+
+}
+#clearEverything {
+  display: inline-block;
+  width: 22%;
+  height: 15%;
+  margin: 5px;
+  float: right;
+  text-align: center;
+
+}
+#calcBody {
+  width: 500px;
+}
